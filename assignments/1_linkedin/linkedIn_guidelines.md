@@ -18,6 +18,7 @@ Sections
 
 1. Picture 
     - Completely meets [workplace profile photo guidelines](https://gist.github.com/brianspiering/0eb6f47e7f9924b02bbc35d64818b033)
+    - Do not include #opentowork. That is a misrepresentation since you are currently a student.
 
 1. Header
     - Banner 
@@ -68,6 +69,7 @@ Sections
         - Each experience should have at least one bullet point.
         - If at a place for less than 5 years, 3 bullets points maximum.
         - 5 bullet points maximum for any single experience. 
+    - If there is just a single item, it should not be a bulleted.
     - Appropriate length of bullet points 
     - Each bullet starts with a strong, active verb in the past tense.
     - Each bullet is descriptive of role and responsibilities. What did you do? Why did it matter?

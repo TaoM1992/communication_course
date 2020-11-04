@@ -42,10 +42,13 @@
         *   "Discovered consumer’s opinions through NLP techniques (parsed dependency trees)"
     *    `Incorporated`, `Carried out`, and `Assisted` are all weak verbs. Use stronger verbs like `Built` ‘Created’ or ‘Lead’.
     *   If you are currently working on a something, you can use the present tense - “Currently building a model to predict” or “Working on a price prediction algorithms and customer behavior analytics to”
-*   Always define acronyms
-    *   Especially Data Science / Machine Learning jargon
-    *   This also includes domain-specific acronyms
-    *   Deep Learning (DL), Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), ….
+*   Always spell out domain specific acronyms, Especially Data Science / Machine Learning jargon:
+        - machine learning (ML)
+        - natural language processing (NLP)
+        - artificial intelligence (AI)
+        - deep learning (DL)
+        - Convolutional Neural Network (CNN)
+        - Recurrent Neural Network (RNN)
     *   [Common business acronyms](https://www.themuse.com/advice/your-ultimate-cheat-sheet-to-deciphering-the-123-most-common-business-acronyms) are an exception. They do not need to be defined
     *   Do not abbreviate if it saves you a single character.
 *   Remove clichés (e.g.“actionable insights”, “fast learner”)

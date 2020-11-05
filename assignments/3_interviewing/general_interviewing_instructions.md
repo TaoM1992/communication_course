@@ -72,7 +72,9 @@ The Interview
 The interviews will be recorded. Both people must be heard clearly on the recording. The interviewee must be on screen. You can record using any software you like (e.g., Zoom, Google Meet, Skype, QuickTime, YouTube, ...). The recordings must be uploaded to YouTube. Make sure to set the privacy to "Unlisted", so only people with links can view. Each interview video should be titled with the following format: [INTERVIEWEE] MSDS Mock Interview (e.g., Brian Spiering MSDS Mock Interview)
 
 __Note about permissions__: It is your sole responsibility to make sure permissions are set correctly on any web-based deliverable. Please double check with an incognito browser. Any points you lose through incorrect settings will be not given back . There will be no regrading.
+
 ----
+
 Post Interview
 -----
 

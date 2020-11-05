@@ -2,7 +2,6 @@ Prework
 ======
 
 
-
 __Required__:
 
 Before the start of class, please complete the following:
@@ -34,7 +33,7 @@ Prework details
 
 2. Your selling points for that job posting.
 
-    Your selling points should be a list of 2-3 . They should be the intersection of your unique characteristics and what the company desires in that position.
+    Your selling points should be a list of 2-3 . They should be the intersection of your unique characteristics and what the organization desires in that position.
 
     Example - "Data Scientist – Alto Neuroscience, Inc"
         1. Meet every criteria - I have PhD in Neuroscience and worked as a professional data scientist at several tech companies.

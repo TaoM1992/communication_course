@@ -5,6 +5,11 @@ Research and preparation are critical for every interview.
 
 1. Organization Name:
 
+1. General Background:
+    - What does it do?
+    - What is the organization’s mission?
+    - How do they make money?
+
 1. Links to relevant open positions:
 
     -  

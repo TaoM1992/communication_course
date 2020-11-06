@@ -1,3 +1,6 @@
 # Course specific files
 instructor/
 *instructor*
+
+# Jupyter Notebook
+.ipynb_checkpoints

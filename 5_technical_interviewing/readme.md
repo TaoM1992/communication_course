@@ -17,6 +17,8 @@ Level 2: [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 
 Level 3: [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
+After you code your solutions, judge your code with the following [Code Review Rubric](https://docs.google.com/document/d/14NKOxYH9HHfndo0TJyCYpFwOTv4Unb0diNmm6EigJjY/edit?usp=sharing)
+
 Deliverables to Canvas:
 
 For each problem, paste in your code attempt and the time you spent on it. The prework will be graded all or nothing based on attempting each problem. Your code or time will not be graded. 

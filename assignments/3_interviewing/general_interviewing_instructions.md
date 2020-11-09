@@ -15,8 +15,9 @@ Individually, each person will submit to Canvas:
 
 1. Text:
     1. Job research
-    1. Written reflection about video and peer feedback
-2. URL to a video of themselves being interviewed.
+    1. Reflection about video interview and peer feedback
+2. Video:
+    1. URL to a TubeYube video of interview
 
 -----
 Job Research

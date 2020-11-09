@@ -9,7 +9,7 @@ In coding interviews, you need to be able to solve coding challenges: independen
 
 Attempt these problems individually without looking at any resources. Additionally, you must solve them only the editor provided. In most coding interviews, you will not get access to your choice of coding environments.
 
-Time box your attempts. Do not spend hours on these problems. It is okay to stop work on coding interview problem if you are not making progress. 
+Time box your attempts. Do not spend hours on these problems. It is okay to stop work on a coding interview problem if you are not making progress. 
 
 Level 1: [Majority Element](https://leetcode.com/problems/majority-element/)
 

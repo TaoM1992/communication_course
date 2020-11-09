@@ -60,4 +60,7 @@
 - Add oxford comma to all lists. It is the comma right before the "and": apples, oranges, and bannanas.
 - All bullet points should end in period. It makes separate points easier to parse.
 - If one of our experiences was just for a few months, do we still have to have the bullet points?
-    - LinkedIn and your resume is a chance to tell your story / display your personal brand. I would include a brief description of each item. It might make sense to you but someone else reading it might not have context. A single sentence is fine.
+    - LinkedIn and your resume is a chance to tell your story / display your personal brand. I would include a brief description of each item. It might be obivous to you but someone else reading it might not have context. A single sentence is fine.
+- Is it okay that our LinkedIn experience section is extactly the same as our resume experience section?
+    + Yes! It is far better to have a few well-crafted bullet points.
+    + During your job search in the summer that might change. Your LinkedIn has to be generic (since everyone sees the same version). Resumes are better in this regard because they can be customized to better match specific jobs.

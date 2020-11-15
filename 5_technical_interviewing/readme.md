@@ -24,11 +24,17 @@ Deliverables to Canvas:
 For each problem, paste in your code attempt and the time you spent on it. The prework will be graded all or nothing based on attempting each problem. Your code or time will not be graded. 
 
 
-__Optional__:
+__Optional Resources__:
 
 - Read [How Firebase Interviewed Software Engineers](https://startupandrew.com/posts/how-firebase-interviewed-software-engineers/?1)
 - [Ace Your Technical Interview Using Python](https://www.youtube.com/watch?v=NltGUUi23zc) (30 minutes)
 - [Preparing for a Python Interview: 10 Things You Should Know](https://www.youtube.com/watch?v=DEwgZNC-KyE) (20 minutes)
+
+__Optional Books__:   
+
 - [Elements of Programming Interviews in Python: The Insiders' Guide](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949) is hands down the best book on the technical interviewing in Python.
+- [Heard in Data Science Interviews](https://www.amazon.com/Heard-Data-Science-Interviews-Interview/dp/1727287320) Very good collect, although some of the answers could be improved.
+
+__Optional Examples__:  
 - [Example of a white board interview](https://www.youtube.com/watch?v=XKu_SEDAykw)
 - [Example of coding interviews](https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg/videos)

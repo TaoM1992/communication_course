@@ -5,7 +5,7 @@ __Required__:
 
 Before the start of class, please complete the following:
 
-1. [Submit a rough draft of email assignment through Canvas](https://usfca.instructure.com/courses/1595047/assignments). Most of writing is revision. This prework encourages you to get started on the assignment early and motivate the in-class materials.
+1. Submit a rough draft of email assignment through Canvas. Email assignment is [here](https://github.com/brianspiering/communication_course/tree/master/assignments/4_email). Sumbit to Canvas [here](https://usfca.instructure.com/courses/1595047/assignments/7019359). Most of writing is revision. This prework encourages you to get started on the assignment early and motivate the in-class materials.
 
 Optional
 ------

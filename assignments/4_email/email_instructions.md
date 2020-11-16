@@ -58,3 +58,10 @@ A week later, you receive the following email (note that you are me@candycrack.a
 > I’ve been dealing with a bit of an issue. I wanted to let you know that I don’t appreciate your team spreading misinformation regarding our advertising efforts. Turns out one of your data analysts has been telling people that our cross-promotional efforts are only half as effective as the advertisements that we show for other titles. I’m not sure where this information came from and what, so-called “data” your data-team is using, but the marketing analysts have spent significant amounts of time balancing a number of important factors to optimize, such as how much we get paid for each advertisements. The last thing I need is another data analyst undercutting their work behind their back.  
 > If you could fix your team, it would be appreciated.  
 > Kathy.  
+ 
+Note about Academic Integrity
+------
+
+This assignment should be your independent work, no working with your peers or GPT-3. You should use assistants tools, such as Grammarly and Hemingway Editor, to improve the quality of your writing. 
+
+I turned on the Turntin option on Canvas, a system that compares your submissions to all previous submissions, to deter plagiarism. You have access to the Turntin report for transparency.

@@ -11,7 +11,7 @@ Common Interview Questions
     - Why do you want to work at this organization? 
     - What excites / interests you about the position? 
     - What relevant experience do you have?
-- Experience
+- Previous Experience
     - Why did you take that position?
     - What did you while you were there? 
     - What was the best part of that position?

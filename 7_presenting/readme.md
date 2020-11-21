@@ -20,7 +20,7 @@ __Optional__:
 - [Simple tips for public speaking](https://speaking.io/)
 
 -----
-Presentation details about topic selection
+Details about topic selection for the presentation
 ------
 
 The last assignment will be individual presentations. Your presentation will be a 4 minute "Lightning"-style talk. 
@@ -53,7 +53,7 @@ Stellar Examples of Lightning Talks
 Previous Topic Examples
 -------
 
-Here is list of previous topics that students have presented on. This should give you general idea of the scope. Feel free to pick one of these topics or something lese.
+Here is list of previous topics that students have presented on. This should give you a general idea of the scope. Feel free to pick one of these topics or something else.
 
 - Algorithm on how to determine the day of the week
 - C4.5 decision tree
@@ -104,7 +104,7 @@ Here is list of previous topics that students have presented on. This should giv
 - Data Visualization with Highcharts from database
 - Java vs Python for Data Science
 - Hacking my way to my first Shiny app
-- Mathematical Modelling in Gambling
+- Mathematical Modeling in Gambling
 - Ridge Regression Implementation
 - Analyzing NBA 3 Pointer Data
 - RISE Demo

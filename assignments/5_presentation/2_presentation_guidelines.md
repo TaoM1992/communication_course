@@ -2,6 +2,7 @@ Presentation Guidelines
 -----
 
 1. Topic Selection
+    - See detailed instructions [here](https://github.com/brianspiering/communication_course/tree/master/7_presenting)
     - Appropriately scoped for a 4 minute talk
     - Not too technical / Not too cutting edge. Your audience is your fellow MSDS students.
     - Interesting / Engaging

@@ -40,6 +40,7 @@ Presentation Guidelines
 
 6. Slides 
     - Public (if not public, you'll lose all points for slides)
+    - Slides are rendered on the web, aka I can view all of them in the browser
     - Your full professional name and title of talk on first slide
     - Your full professional name, title of talk, and a short description on webpage
     - Appropriate number of slides (most talks will be 4-8 slides) 

@@ -19,8 +19,8 @@ Guidelines:
     + It is does not matter where your slides are hosted. They just need to be indexable by Google search and rendered natively on the web.
     - Suggested options:
         - Slideshare
-        - Google Slides with correct permissions
-        - GitHub 
+        - Google Slides with correct permissions. The correct permission is "Anyone with link".
+        - GitHub. The slides have to be a pdf file to be seen in the browser.
         - Your personal website
 - All items must have your full professional name, title of talk, and a short description. These items will be part of your public Data Science portfolio. You can not take them down until you get a job after graduation.
 - If you have an issue with this assignment being public, please reach out to me to discuss it. 
